@@ -1,7 +1,8 @@
 # 面向可爱的蓝孩纸
+“在银河的褶边裙角，性别如云雾般流动，美丽是宇宙的Bug。”
 
 这是一个为热爱女装的男孩子及所有朋友打造的仓库，专用来分享和存放你的女装照片！在这里，我们鼓励你自信展现独特的魅力，无论是甜美、优雅还是俏皮的风格！✨
-“在银河的褶边裙角，性别如云雾般流动，美丽是宇宙的Bug。”
+
 “Beauty begins the moment you decide to be yourself.” — Coco Chanel
 
 ## 关于这个仓库
@@ -19,17 +20,12 @@
 女装是艺术，femboy是哲学。  
 裙摆与代码同构，颜值与自由共振。  
 拒绝标签，拥抱混沌美学。
-里不是简单的照片堆叠，而是对柔美、叛逆与自我表达的量子纠缠。每张图片，都是一个平行宇宙的剪影，诉说着性别边界的浪漫失重。
-This repository is a gentle archive — a celebration of fluidity, aesthetics, and self-expression through the visual medium.  
-It exists in the spaces between: masculine and feminine, curated and candid, strength and softness.
-Through a curated collection of imagery, this space seeks not to define, but to dissolve.  
-Not to box, but to breathe.
-
+每张图片，都是一个平行宇宙的剪影，诉说着性别边界的浪漫失重。
 
 ## 如何参与
 
 1. **Fork 仓库**：点击右上角 Fork 按钮，将仓库复制到你的 GitHub 账户。
-2. **上传照片**：
+2. **上传照片**： 
     - 在 `photos` 文件夹中创建以你 GitHub 用户名命名的子文件夹（例如 `photos/your-username`）。
     - 上传你的女装照片（需符合社区规范），建议使用 `.jpg` 或 `.png` 格式，文件大小适中。
 3. **添加描述（可选）**：
@@ -39,12 +35,19 @@ Not to box, but to breathe.
 5. **遵守规范**：
     - 尊重他人隐私，不得擅自使用他人照片。
 
+## 技术栈
+
+**存储**：目前只有GitHub 
+
+**未来计划** 接入 Web3，打造去中心化的 femboy 元宇宙（也许吧）。
+
+
 ## 社区规范
 
 - **尊重与包容**：欢迎所有性别与背景的朋友，保持友好态度，禁止任何形式的恶意或歧视。
 - **保护隐私**：勿分享敏感信息（如真实姓名、地址）。
-- **创意自由**：尽情展现你的风格，日常穿搭或 Cosplay 皆可！这里是自由的港湾，性别、身份、风格皆无界限。仅上传你拥有版权或授权的内容，违者将被黑洞吞噬。
-- All content is shared with respect for identity and expression. If any image belongs to you and you’d like credit or removal, please open an issue or contact directly.
+- **创意自由**：尽情展现你的风格，日常穿搭或 Cosplay 皆可！这里是自由的港湾，性别、身份、风格皆无界限。
+- 
 
 ## 联系我们
 
