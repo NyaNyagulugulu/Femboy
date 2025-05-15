@@ -33,12 +33,4 @@
 
 ## 联系我们
 
-有问题或建议？请在 [Issues](https://github.com/your-username/repository-name/issues) 留言，或通过 [Discussions](https://github.com/your-username/repository-name/discussions) 交流！
-
-## 致谢
-
-感谢每一位勇敢做自己的你！让我们一起用可爱点亮世界！💖
-
----
-
-*“你就是最闪亮的星，勇敢展现吧！”*
+有问题或建议？请在 [Issues](https://github.com/NyaNyagulugulu/Femboy/issues) 留言
