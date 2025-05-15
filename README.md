@@ -1,6 +1,8 @@
 # 面向可爱的蓝孩纸
 
 这是一个为热爱女装的男孩子及所有朋友打造的仓库，专用来分享和存放你的女装照片！在这里，我们鼓励你自信展现独特的魅力，无论是甜美、优雅还是俏皮的风格！✨
+“在银河的褶边裙角，性别如云雾般流动，美丽是宇宙的Bug。”
+“Beauty begins the moment you decide to be yourself.” — Coco Chanel
 
 ## 关于这个仓库
 
@@ -11,6 +13,18 @@
 - 感受自我表达的快乐
 
 无论你是初次尝试还是资深玩家，欢迎加入我们的可爱社区！
+
+## 核心理念：  
+
+女装是艺术，femboy是哲学。  
+裙摆与代码同构，颜值与自由共振。  
+拒绝标签，拥抱混沌美学。
+里不是简单的照片堆叠，而是对柔美、叛逆与自我表达的量子纠缠。每张图片，都是一个平行宇宙的剪影，诉说着性别边界的浪漫失重。
+This repository is a gentle archive — a celebration of fluidity, aesthetics, and self-expression through the visual medium.  
+It exists in the spaces between: masculine and feminine, curated and candid, strength and softness.
+Through a curated collection of imagery, this space seeks not to define, but to dissolve.  
+Not to box, but to breathe.
+
 
 ## 如何参与
 
@@ -27,9 +41,10 @@
 
 ## 社区规范
 
-- **尊重与包容**：欢迎所有性别与背景的朋友，保持友好态度。
+- **尊重与包容**：欢迎所有性别与背景的朋友，保持友好态度，禁止任何形式的恶意或歧视。
 - **保护隐私**：勿分享敏感信息（如真实姓名、地址）。
-- **创意自由**：尽情展现你的风格，日常穿搭或 Cosplay 皆可！
+- **创意自由**：尽情展现你的风格，日常穿搭或 Cosplay 皆可！这里是自由的港湾，性别、身份、风格皆无界限。仅上传你拥有版权或授权的内容，违者将被黑洞吞噬。
+- All content is shared with respect for identity and expression. If any image belongs to you and you’d like credit or removal, please open an issue or contact directly.
 
 ## 联系我们
 
